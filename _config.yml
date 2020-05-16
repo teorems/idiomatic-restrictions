@@ -9,3 +9,4 @@ twitter_username: your-twitter-handle # DO NOT include the @ character, or else 
 github_username:  teorems
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
