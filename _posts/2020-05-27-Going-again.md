@@ -1,6 +1,6 @@
 ---
 title: "Going again, still pythoning"
-date: 2020-05-27
+date: 2020-06-13
 ---
 
 Donc, voyons d'écrire en français? No. I talk already too much french.
